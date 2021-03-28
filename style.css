@@ -1,0 +1,111 @@
+#banner{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    background-image: url("img/alan.jpg");
+    background-position: center;
+    background-size: cover;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+
+}
+
+.text_banner{
+    text-align:justify ;
+    padding: 30px;
+    font-size: 20px;
+    flex:1;
+    
+
+}
+h1 {
+    color: red;
+   
+}
+.text_banner p{
+    width:500px;
+    height:500px;
+
+}
+#banner_meio{
+    text-align: justify;
+    background-image: url("img/maquina.jpg");
+    height: 300px;
+    justify-content: center;
+    background-position:center;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-size: cover;
+    margin-top: 15px;
+    padding-left:20px;
+    padding-top:  20px ;
+
+}   
+.text_banner_meio p{
+    text-align: justify;
+    height: 200px;
+    width:550px;
+    color:#d62323;
+    font-size: 20px;
+    
+    
+}
+H2{
+    font-size: 22px;
+    color:rgb(112, 33, 33)   
+}
+
+#banner_fim{
+    margin-top: 15px;
+    background-color: rgb(153, 96, 96);
+    height: 500px;
+  
+}
+.timeline{
+    padding-top: 100px;
+    position: absolute;
+    left: 300px;
+    font-size: 19px;
+    font-weight: bold;
+    
+}
+
+ul{
+   padding-top: 150px;
+   position: absolute;
+    left: 300px;
+
+
+}
+.sobre_alan{
+    position: absolute;
+    left: 510px;
+    margin-top: 440px;
+
+}
+.bar_timeline{
+    width: 95px;
+    height: 2px;
+    background-color: #000000;
+    position: absolute;
+    left: 302px;
+    margin-top: 125px;
+    
+
+
+}
+  
+    
+   
+    
+
+
+    
+
+
+
+
+    
+
+
